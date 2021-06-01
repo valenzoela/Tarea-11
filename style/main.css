@@ -1,0 +1,20 @@
+body
+{background: url("../images/fondo2.jpg");}
+
+marquee
+{
+	color: black;
+	font-size: 40px
+}
+
+article
+{
+	color: black;
+	font-size: 40px
+}
+
+p
+{
+	color: black;
+	font-size: 30px;
+}
